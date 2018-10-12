@@ -90,13 +90,13 @@
 		 <snapshotRepository>
 		    <id>nexus</id>
 		    <name>Internal Snapshot Releases</name>	 
-		    <url>http://54.185.237.94:8081/repository/maven-snapshots/</url>
+		    <url>http://34.209.123.121:8081/repository/shipwrick-snapshot/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexus</id>
 		    <name>Internal Releases</name>
-		    <url>http://54.185.237.94:8081/repository/maven-releases/</url>
+		    <url>http://34.209.123.121:8081/repository/shipwrick/</url>
 		</repository>
   	</distributionManagement>
 	
